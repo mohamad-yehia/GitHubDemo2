@@ -23,7 +23,7 @@
   <artifactId>GitDemo2</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>mvn-test</name>
+  <name>GitDemo2</name>
   <url>http://maven.apache.org</url>
 <dependencies>
     <dependency>
