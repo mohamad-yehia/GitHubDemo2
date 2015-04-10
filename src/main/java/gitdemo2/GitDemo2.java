@@ -1,7 +1,7 @@
 /*
  * copyright Mohamad Yehia.
  */
-package gitdemo2;
+package main.java.gitdemo2;
 
 /**
  *
